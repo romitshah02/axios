@@ -12,7 +12,7 @@ function App() {
   const [data, setData] = useState([])
   const [showPassword, setShowPassword] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
-  const key = "lA5FEO5N3tMX1JwnWNzvpig7eIncZSeS5gmIsS1oR36Vv9vvcMP7Oebr"
+  const key = ""
   
   const fetch = async () => {
     try {
