@@ -12,6 +12,7 @@ function App() {
   const [data, setData] = useState([])
   const [showPassword, setShowPassword] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
+  //enter your api key
   const key = ""
   
   const fetch = async () => {
